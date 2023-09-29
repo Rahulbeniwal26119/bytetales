@@ -1,0 +1,2 @@
+# bytetales
+Easy Documentation
